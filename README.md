@@ -1,4 +1,4 @@
 spider_tcp_friend_chat_server
 =============================
 
-spider tcp chat server
+业余时间完成的聊天服务器，很多漏洞，望各位看见，请忽略掉它吧
